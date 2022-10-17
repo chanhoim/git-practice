@@ -1,0 +1,5 @@
+university
+school
+class
+home
+new
